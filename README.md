@@ -3,7 +3,7 @@
 #### Free HarvardX course on [cs50.harvard.edu/games/2020][harvard_link] \
 
 
-Milad Parsa
+Milad Sepehri
 Web site : https://www.parsatec.com
 
 
